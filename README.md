@@ -1,4 +1,3 @@
 # Python Lesson
 
-Author: Sonja Hendriks
-
+Author: Sonja M. Hendriks ; Trainer Konrad Förstner
